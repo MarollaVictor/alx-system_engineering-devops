@@ -1,1 +1,6 @@
 "#!/bin/bash"
+#!/bin/bash
+pwd is a command that shows the parent and the later directories from which we are standing
+(why?)
+#!/bin/bash
+(why?)
