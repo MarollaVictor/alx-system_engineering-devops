@@ -1,1 +1,2 @@
-#!/bin/bash  ls is caled to list all the files contained and their access
+#!/bin/bash
+ls
