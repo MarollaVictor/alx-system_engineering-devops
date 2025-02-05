@@ -1,0 +1,5 @@
+--2025-02-04 18:51:17--  https://dev.mysql.com/get/mysql-apt-config_0.8.12-1_all.deb
+Resolving dev.mysql.com (dev.mysql.com)... 23.50.180.206, 2a02:26f0:c000:1a8::2e31, 2a02:26f0:c000:19d::2e31
+Connecting to dev.mysql.com (dev.mysql.com)|23.50.180.206|:443... failed: Connection timed out.
+Connecting to dev.mysql.com (dev.mysql.com)|2a02:26f0:c000:1a8::2e31|:443... failed: Network is unreachable.
+Connecting to dev.mysql.com (dev.mysql.com)|2a02:26f0:c000:19d::2e31|:443... failed: Network is unreachable.
